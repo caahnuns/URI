@@ -1,2 +1,2 @@
-# URI
-Exercises in Python by URI (urionlinejudge.com.br)
+# beecrowd
+Exercises in Python by beecrowd (https://judge.beecrowd.com/)
